@@ -1,6 +1,6 @@
 # Shamir's Secret Implementation for Data Storage and Recovery 
 
-### [EXPERIMENTAL ONLY - DO NOT THINK ABOUT USING IN PRODUCTION] 
+### <span style="color:red">[EXPERIMENTAL ONLY - DO NOT THINK ABOUT USING IN PRODUCTION] </span>
 
 ## Run the program
 
